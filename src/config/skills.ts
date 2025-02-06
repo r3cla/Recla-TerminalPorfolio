@@ -11,7 +11,7 @@ export const skills: Skill[] = [
   },
   {
     name: "TypeScript",
-    percentage: 85,
+    percentage: 70,
   },
   {
     name: "HTML",
@@ -19,10 +19,10 @@ export const skills: Skill[] = [
   },
   {
     name: "CSS",
-    percentage: 88,
+    percentage: 95,
   },
   {
     name: "Git",
-    percentage: 82,
+    percentage: 90,
   },
 ];
