@@ -6,15 +6,15 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    name: "Project 1: E-commerce Platform",
-    url: "https://github.com/username/project1",
+    name: "This Website: A terminal portfolio!",
+    url: "https://github.com/r3cla/Recla-TerminalPorfolio",
   },
   {
-    name: "Project 2: Task Management App",
-    url: "https://github.com/username/project2",
+    name: "HubTree: Fetch file structures from public repos quickly",
+    url: "https://github.com/r3cla/HubTree",
   },
   {
-    name: "Project 3: Portfolio Website",
-    url: "https://github.com/username/project3",
+    name: "CivicCanvas: Responsive web template, open source and free for use",
+    url: "https://github.com/r3cla/civiccanvas",
   },
 ];
